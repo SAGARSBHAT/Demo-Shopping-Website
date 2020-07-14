@@ -1,0 +1,313 @@
+.navbar-custom{
+    background-color:#282828;
+}
+body{
+    margin: auto;
+    overflow-y: scroll;
+    overflow-wrap: normal;
+    overflow-x: hidden;
+}
+.con
+{
+   color: white   
+}
+.con1{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+}
+.container1{
+    background-color: skyblue;
+    background-size: cover;
+    height: 550px;
+    padding: 30px;
+}
+.imgcontainer
+{
+    background-color: skyblue;
+    background-image: url("https://cnet1.cbsistatic.com/img/UkvMIHhcwGaD1YMZWo90n7fOgwQ=/2019/09/10/2702d8ea-a6b8-476e-b041-fc69267bb205/apple-iphone-11-family-lineup-091019.jpg");
+    height: 500px;
+    background-size: cover;
+    width: 1500px;
+    background-repeat: no-repeat;
+    width: 50%;
+    float: left;
+    
+}
+.con2
+{
+    background-color: #111;
+    background-size: cover;
+    height: 50px;
+    margin-top: 0px;
+    
+}
+
+
+.inp
+{
+    height: 30px;
+    width: 500px;
+    margin-top: 20px;
+    text-align: left;
+    font-size: larger;
+    position: relative;
+    border-style: solid;
+    border: 5px;
+    background-color:white;
+    color:black;
+    border-color:orange;
+   
+
+}
+.log{
+    font-size: 100px;
+    font-weight: bolder;
+    color: black;
+    width: 450px;
+    top: 100px;
+    position: relative;
+    text-align: center;
+    font-family: Poppins;
+    font-style: italic;
+    width: 50%;
+    float: left;
+}
+.log1
+{
+    font-size: 80px;
+    font-weight: bolder;
+    color: black;
+    font-family: Poppins;
+    font-style: oblique;
+}
+.log1a
+{
+    font-size: large;
+    font-weight: 400;
+    font-family: Poppins;
+    font-style: oblique;
+    color: white;
+    text-align: center;
+  
+    
+}
+.log1c
+{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Poppins;
+    font-style: italic;
+    color:white;
+    text-align: center;
+    vertical-align: middle;
+}
+.log2
+{
+    font-size: medium;
+    font-weight: 300;
+    font-family: Poppins;
+    font-style: oblique;
+    margin-left: 20px;
+    color: white;
+}
+.log1b
+{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Poppins;
+    font-style: oblique;
+    
+}
+
+.tile{
+    box-shadow: 0 3px 6px black;
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    height: 600px;
+    width: fit-content;
+
+}
+
+.tile1
+{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Poppins;
+    font-style: normal;
+    text-align: center;
+    color: black;
+    
+}
+.tile2{
+    font-size:20px ;
+    font-weight: 500;
+    font-family: Poppins;
+    margin-left: 40px;
+    background-size: 500px;
+    text-align: center;
+}
+.con4{
+    display: flex;
+    justify-content: center;
+}
+.img-tile1
+{
+ 
+    margin-top: 10px;
+    padding: 30px;
+    right: 20px;
+    position: relative;
+    text-align: center;
+}
+.img-tile2
+{
+
+    margin-top: 10px;
+    padding: 30px;
+    right: 20px;
+    position: relative;
+    text-align: center;
+    left: 100px;
+    position: relative;
+}
+.img-tile3
+{
+
+    margin-top: 10px;
+    padding: 30px;
+    right: 20px;
+    position: relative;
+    width: 55%;
+    float: left;
+    text-align: center;
+}
+.img-tile4
+{
+    font-size: medium;
+    margin-top: 10px;
+    padding: 30px;
+    right: 20px;
+    position: relative;
+    width: 45%;
+    float: left;
+    text-align: center;
+    left: 100px;
+    position: relative;
+}
+.text-a{
+    font-size: large;
+    font-weight: 800;
+    font-family: Poppins;
+    color: black;
+    margin-left: 30px;
+}
+.contain{
+   width: 700px;
+   height: 300px;
+   background-color: orange;
+   margin-bottom: 20px;
+   margin-left: 20px;
+   margin-top: 5px;
+   box-shadow: 0 3px 6px black;
+}
+.img-container1{
+    background: url('http://www.pennypinchinmom.com/wp-content/uploads/2015/11/computer.png');
+    height: 200px;
+    
+    background-size: cover;
+    text-align: left;
+    width: 50%;
+    left: 20px;
+    top: 50px;
+    position: relative;
+    float: left;
+
+}
+.con5
+{
+    font-size: 50px;
+    font-family: Poppins;
+    font-style: italic;
+    text-align: center;
+    width: 50%;
+    float: left;
+    font-weight: bolder;
+    color: black;
+    top: 100px;
+    position: relative;
+
+}
+.tile-main2
+{
+    width: 1000px;
+    background-color: rebeccapurple;
+}
+.contain1{
+    width: 700px;
+    height: 400px;
+
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-top: 5px;
+    box-shadow: 0 3px 6px black;
+ }
+ .img-container2{
+    background: url('https://www.amazon.in/images/G/31/AmazonVideo/2020/X-site/SingleTitle/BITS/Launch/758x608_HUD._SY608_CB410326187_.jpg');
+    height: 400px;
+    background-position: 2px;
+    background-size: cover;
+    text-align: left;
+    width: 70%;
+    left: 20px;
+    float: left;
+
+}
+.con6
+{
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    top: 20px;
+    position: relative;
+    background-size: cover;
+    font-size: 50px;
+    height: fit-content;
+    background-color: orange;
+    box-shadow: 0 3px 6px black;
+
+}
+.main-1
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+.mini{
+    font-size: 20px;
+    font-weight: 800;
+    font-family: Poppins;
+    font-style: normal;
+    text-align: center;
+    left: 45px;
+    position: relative;
+    color: #282828;
+}
+.clothes1
+{
+ text-align: left;
+ margin-left: 50px;  
+ width: 50%;
+ float: left; 
+ 
+}
+.clothes2{
+    text-align: left;
+    margin-left: 10px;  
+    width:50% ;
+    float: left;
+    
+}
